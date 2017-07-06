@@ -30,6 +30,14 @@ html, body {
       padding-top: 50px; }
       .mask .box .title img {
         width: 100%; }
+    .mask .box .btn {
+      width: 90%;
+      height: 30px;
+      background: lightseagreen;
+      text-align: center;
+      line-height: 30px;
+      color: #ffffff;
+      margin: 0 auto; }
 
 .wrap {
   width: 100%;

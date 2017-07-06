@@ -17,6 +17,7 @@ html,body{
   opacity:0.5;
   padding: 100px 10px;
   .box{
+
     margin: 0 auto;
     width: 90%;
     height: 450px;
@@ -31,6 +32,15 @@ html,body{
       img{
         width: 100%;
       }
+    }
+    .btn{
+      width: 90%;
+      height: 30px;
+      background: lightseagreen;
+      text-align: center;
+      line-height: 30px;
+      color: #ffffff;
+      margin: 0 auto;
     }
   }
 }
